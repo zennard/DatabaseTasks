@@ -1,4 +1,6 @@
 # Lab 1. Getting started with basic PostrgeSQL functionality
+# (Лабораторна робота 1. Проектування бази даних та ознайомлення з базовими операціями СУБД PostgreSQL)
+# variant 17
 Website devoted to selling clothes.
 
 ## Graphical ER Model(Chen notation)
