@@ -1,4 +1,8 @@
 # Lab 1. Getting started with basic PostrgeSQL functionality
+## Variant 17
+## Done by Podlesniuk Bogdan KP-81
+
+## Clothes field
 Website devoted to selling clothes.
 
 ## Graphical ER Model(Chen notation)
