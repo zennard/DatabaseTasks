@@ -1,4 +1,4 @@
-# Lab 2. Getting started with basic PostrgeSQL functionality
+# Lab 2. Creating app that uses database. PostgreSQL
 Website devoted to selling clothes.
 
 ## Graphical ER Model(Chen notation)
