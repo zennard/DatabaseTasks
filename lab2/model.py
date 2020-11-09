@@ -4,7 +4,7 @@ class Model:
     def __init__(self):
         try:
             self.connection = psycopg2.connect(host="localhost", port="5432",
-                                               database='clothingStoreDatabase', user='postgres', password='qazpl,12345')
+                                               database='clothingStoreDatabase', user='postgres', password='********')
             self.cursor = self.connection.cursor()
         except (Exception, psycopg2.Error) as error:
             print("Помилка при з'єднанні з PostgreSQL", error)
