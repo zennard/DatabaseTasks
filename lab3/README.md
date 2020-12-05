@@ -1,11 +1,11 @@
-# Lab 1. Getting started with basic PostrgeSQL functionality
+# Lab 3. Methods of optimization. PostrgeSQL
 Website devoted to selling clothes.
 
 ## Graphical ER Model(Chen notation)
-![ERD](/lab1/erd.jpg)
+![ERD](/lab3/erd.jpg)
 
 ## Database relations and tables
-![Relations](/lab1/relations.jpg)
+![Relations](/lab3/relations.jpg)
 
 ## Data description
 Relation | Attribute | Data type
